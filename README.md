@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Faisal Ahmed
 
-<!--
-**faisalahmed00324/faisalahmed00324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Full-Stack Developer | .NET | React | AWS
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer focused on building scalable backend services, modern web applications and cloud-based solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Skills**
+
+- **Backend:** C#, .NET, ASP.NET Web API, REST APIs
+- **Frontend:** React, JavaScript, TypeScript
+- **Databases:** Microsoft SQL Server, MongoDB
+- **Cloud & DevOps:** AWS, ECS, S3, Serverless Framework
+- **Architecture:** Microservices, Hexagonal Architecture
+- **AI & Search:** Visual Search, Image Embeddings, Vector Search
+
+**Certifications**
+- AWS Certified Developer – Associate
+
+**Currently Exploring**
+- TypeScript and serverless application development
+- Cloud-native architecture and scalable systems
+- AI-powered search and application features
